@@ -65,7 +65,6 @@ body{
 }
 .cards{
     width:1400px;
-    height: 140px;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
