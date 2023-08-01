@@ -1,0 +1,27 @@
+@media screen and (max-width:990px) {
+
+.navbar__colletion{
+    display: none;
+}
+.hamburger{
+    display: block;
+}
+
+}
+
+
+
+@media screen and (max-width:768px) {
+    .navbar__top{
+        display: none;
+    }
+    .banner{
+        height: 500px;
+    }
+}
+@media screen and (max-width:400px) {
+
+    .banner{
+        max-height: 300px;
+    }
+}
